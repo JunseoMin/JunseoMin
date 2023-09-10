@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?color=gradient&type=waving&text=WelCome!&fontColor=ffffff">
+  <img src="https://capsule-render.vercel.app/api?color=gradient&type=waving&text=WelCome!">
   <h3>Hi there 👋</h3>
   <p>I'm Junso Min, a student at KwangWoon University, currently working as an undergraduate research assistant in the field of AI.</p>
   <p> My focus is on autonomous driving, SLAM & navigation, and robotics. You can reach me at minjs4562@gmail.com.</p>
