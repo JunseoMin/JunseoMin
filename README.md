@@ -13,8 +13,10 @@
   <img src="https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=ffffff"/>
 </div>
+
+      
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunseoMin&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JunseoMin&show_icons=true&theme=transparent&hide_border=true" alt="Anurag's GitHub stats">
 </p>
 
 <p align="center">
