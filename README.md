@@ -13,10 +13,17 @@
   <img src="https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=ffffff"/>
 </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JunseoMin&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunseoMin&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com?user=junseomin&theme=dark&hide_border=false)](https://git.io/streak-stats)
-<h3>:bulb:Projects</h3>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=junseomin&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  </a>
+</p>
+
+  <h3>:bulb:Projects</h3>
 <ul>
   <li><a href="https://github.com/JunseoMin/KRX_Stock_prediction">Timeserial Stock Prediction </a>: Timeserial stock prediction of KOSPI stocks.</li>
   <li><a href="https://github.com/JunseoMin/Food-Delivery">Baemin Food delivery challenge</a>: Autonomous driving project with real-robot(wego scout-mini).</li>
