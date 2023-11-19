@@ -15,11 +15,12 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunseoMin&show_icons=true&theme=transparent)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=junseomin&theme=dark&hide_border=false)](https://git.io/streak-stats)
 <h3>:bulb:Projects</h3>
 <ul>
   <li><a href="https://github.com/JunseoMin/KRX_Stock_prediction">Timeserial Stock Prediction </a>: Timeserial stock prediction of KOSPI stocks.</li>
   <li><a href="https://github.com/JunseoMin/Food-Delivery">Baemin Food delivery challenge</a>: Autonomous driving project with real-robot(wego scout-mini).</li>
+  <li><a href="https://github.com/JunseoMin/AUTO-DELIVERY">Baemin Food delivery challenge</a>: Autonomous driving project with Morai-Simulation Tool.</li>
   <!-- Add more projects as needed -->
 </ul>
 
