@@ -35,7 +35,7 @@
 
 <h3>:phone:Contact</h3>
 <ul>
-  <li>Email: minjs4562@gmail.com</li>
+  <li>**Email**: minjs4562@gmail.com</li>
   <!-- Add more contact information as needed -->
 </ul>
 
