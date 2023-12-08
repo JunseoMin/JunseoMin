@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20github!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20github!&descAlignY=51&descAlign=62)
 <div align="center">
   <h3>Hi there 👋</h3>
   <p>I'm Junso Min, a student at KwangWoon University, currently working as an undergraduate research assistant in the field of AI.</p>
@@ -42,4 +42,4 @@
 <h3>:snail:About Me</h3>
 <p>I am a passionate undergraduate research assistant at KwangWoon University, specializing in AI, autonomous driving, and robotics. Currently, I am actively involved in SLAM & navigation research and using ROS for autonomous driving projects. Feel free to contact me if you want to collaborate or discuss anything related to AI and autonomous driving.</p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer&fontSize=90)
