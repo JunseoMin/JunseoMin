@@ -7,30 +7,37 @@
   <h3>:rocket: My Stacks</h3>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=ffffff">
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=eclipseide&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros2&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/SLAM-000000?style=for-the-badge&logo=slam&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=mathworks&logoColor=ffffff"/>
 </div>
 
-      
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JunseoMin&show_icons=true&theme=transparent&hide_border=true" alt="Anurag's GitHub stats">
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=junseomin&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=junseomin&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
   </a>
 </p>
 
-  <h3>:bulb:Projects</h3>
+<h3>:bulb:Projects</h3>
 <ul>
-  <li><a href="https://github.com/JunseoMin/KRX_Stock_prediction">Timeserial Stock Prediction </a>: Timeserial stock prediction of KOSPI stocks.</li>
+  <li><a href="https://github.com/JunseoMin/KRX_Stock_prediction">Timeserial Stock Prediction</a>: Timeserial stock prediction of KOSPI stocks.</li>
   <li><a href="https://github.com/JunseoMin/Food-Delivery">Baemin Food delivery challenge</a>: Autonomous driving project with real-robot(wego scout-mini).</li>
   <li><a href="https://github.com/JunseoMin/AUTO-DELIVERY">Baemin Food delivery challenge</a>: Autonomous driving project with Morai-Simulation Tool.</li>
   <!-- Add more projects as needed -->
+</ul>
+
+<h3>:briefcase:Work Experience</h3>
+<ul>
+  <li>SLAM Engineer & Developer at Immersion (December 2023 - Present)</li>
+  <li>Intern at Samsung Unpack Project (June 2021 - September 2021)</li>
+  <!-- Add more work experiences as needed -->
 </ul>
 
 <h3>:phone:Contact</h3>
