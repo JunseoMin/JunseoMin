@@ -35,7 +35,6 @@
 
 <h3>:briefcase:Work Experience</h3>
 <ul>
-  <li>SLAM Engineer & Developer at Immersion (December 2023 - Present)</li>
   <li>Intern at Samsung Unpack Project (June 2021 - September 2021)</li>
   <!-- Add more work experiences as needed -->
 </ul>
