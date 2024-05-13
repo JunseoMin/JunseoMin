@@ -36,7 +36,7 @@
 <h3>:briefcase:Work Experience</h3>
 <ul>
   <li>Intern at Cheil - Samsung Unpack Project (June 2021 - September 2021)</li>
-  <li>SLAM Engineer & Developer - Immersion (December 2023 - Present)</li>
+  <li>SLAM Researcher & Developer - Immersion (December 2023 - Present)</li>
   <!-- Add more work experiences as needed -->
 </ul>
 
