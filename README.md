@@ -49,6 +49,6 @@
 </ul>
 
 <h3>:snail: About Me</h3>
-<p>I am a passionate undergraduate research assistant at KwangWoon University, specializing in AI, autonomous driving, and robotics. Currently, I am actively involved in SLAM & navigation research and using ROS for autonomous driving projects. Feel free to contact me if you want to collaborate or discuss anything related to AI and autonomous driving.</p>
+<p>I am actively involved in SLAM & navigation research and using ROS for autonomous driving projects. Feel free to contact me if you want to collaborate or discuss anything related to AI and autonomous driving.</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer&fontSize=90)
