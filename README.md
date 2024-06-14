@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=ffffff">
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros2&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/ROS2-000000?style=for-the-badge&logo=ros&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/SLAM-000000?style=for-the-badge&logo=slam&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=ffffff"/>
@@ -44,7 +44,8 @@
 <h3>:phone: Contact</h3>
 <ul>
   <li>Email: minjs4562@gmail.com</li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/junseo-min-b638582bb/">Junseo Min</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/junseo-min-b638582bb/">🧑‍💼 Junseo Min</a></li>
+  <li>Portfolio: <a href="https://dawn-blob-54d.notion.site/JunseoMin-Autonomous-driving-SW-developer-aba4766e42184bc680a5f4363c4f2c3a/">📂 Junseo Min</a></li>
   <!-- Add more contact information as needed -->
 </ul>
 
