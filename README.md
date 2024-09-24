@@ -37,7 +37,8 @@
 <h3>:briefcase: Work Experience</h3>
 <ul>
   <li>Intern at Cheil - Samsung Unpack Project (June 2021 - September 2021)</li>
-  <li>SLAM Researcher & Developer - Immersion (December 2023 - Present)</li>
+  <li>SLAM Researcher & Developer - Immersion (December 2023 - September 2024)</li>
+  <li>Research intern - MPIL(Machine Perception and Intelligence Lab) at GIST (June 2024 - present)</li>
   <!-- Add more work experiences as needed -->
 </ul>
 
