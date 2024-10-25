@@ -16,21 +16,10 @@
   <img src="https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=mathworks&logoColor=ffffff"/>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunseoMin&show_icons=true&theme=transparent&hide_border=true" alt="Junseo Min's GitHub stats">
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=junseomin&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
-  </a>
-</p>
-
 <h3>:bulb: Projects</h3>
 <ul>
-  <li><a href="https://github.com/JunseoMin/KRX_Stock_prediction">Timeserial Stock Prediction</a>: Timeserial stock prediction of KOSPI stocks.</li>
   <li><a href="https://github.com/JunseoMin/Food-Delivery">Baemin Food delivery challenge</a>: Autonomous driving project with real-robot (WeGo Scout-mini).</li>
-  <li><a href="https://github.com/JunseoMin/AUTO-DELIVERY">Baemin Food delivery challenge</a>: Autonomous driving project with Morai-Simulation Tool.</li>
+  <li><a href="https://github.com/JunseoMin/perceiver-implementation">Perceiver implementation</a>: Implementation of multi-modal deep learning architecture Perceiver.</li>
   <!-- Add more projects as needed -->
 </ul>
 
@@ -42,6 +31,7 @@
   <!-- Add more work experiences as needed -->
 </ul>
 
+
 <h3>:phone: Contact</h3>
 <ul>
   <li>Email: minjs4562@gmail.com</li>
@@ -52,5 +42,15 @@
 
 <h3>:snail: About Me</h3>
 <p>I am actively involved in SLAM & navigation research and using ROS for autonomous driving projects. Feel free to contact me if you want to collaborate or discuss anything related to AI and autonomous driving.</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JunseoMin&show_icons=true&theme=transparent&hide_border=true" alt="Junseo Min's GitHub stats">
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=junseomin&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  </a>
+</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer&fontSize=90)
