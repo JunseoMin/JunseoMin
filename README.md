@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>Hi there 👋</h3>
-  <p>I'm Junseo Min, a graudate student at KwangWoon University and Research intern at GIST currently working as an research intern in the Machine perception and AI Lab. at GIST.</p>
+  <p>I'm Junseo Min, a graudate student at KwangWoon University and Research intern at GIST currently working as an research intern in the Machine Perception and intelligence Lab. at GIST.</p>
   <p> My focus is on autonomous driving, SLAM & navigation, and robotics. You can reach me at minjs4562@gmail.com.</p>
 
   <h3>:rocket: My Stacks</h3>
