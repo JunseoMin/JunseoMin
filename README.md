@@ -9,9 +9,8 @@
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=ffffff">
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/ROS2-000000?style=for-the-badge&logo=ros&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/SLAM-000000?style=for-the-badge&logo=slam&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=mathworks&logoColor=ffffff"/>
 </div>
