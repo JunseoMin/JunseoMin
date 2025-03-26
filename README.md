@@ -34,7 +34,7 @@
 <ul>
   <li>Email: minjs4562@gmail.com</li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/junseo-min-b638582bb/">🧑‍💼 Junseo Min</a></li>
-  <li>Portfolio: <a href="https://dawn-blob-54d.notion.site/JunseoMin-Autonomous-driving-SW-developer-aba4766e42184bc680a5f4363c4f2c3a/">📂 Junseo Min</a></li>
+  <li>Portfolio: <a href="https://dawn-blob-54d.notion.site/junseomin-portfolio-welcome/">📂 Junseo Min</a></li>
   <li>CV: <a href="https://github.com/JunseoMin/cv/raw/main/JunseoMin_CV.pdf">📄 Junseo Min CV</a></li>
 
   <!-- Add more contact information as needed -->
